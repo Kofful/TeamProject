@@ -1,0 +1,1 @@
+c:\users\10113\documents\visual studio 2015\Projects\STOServer\STOServer\bin\Debug\STOServer.exe.config
